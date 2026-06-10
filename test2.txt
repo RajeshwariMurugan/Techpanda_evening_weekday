@@ -1,1 +1,17 @@
 Welcome
+
+
+python --> Git and sql
+ -
+Linux aws
+  |
+Airflow 
+
+Hadoop  --> Extract
+ 
+spark --> Transform
+
+snowflake --> load
+
+------------------------
+
